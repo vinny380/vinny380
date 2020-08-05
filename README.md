@@ -13,13 +13,18 @@ In love with teaching, learning and space/rocketry science.
 
 - 🔭 I’m currently working on Next Level Week application
 - 🌱 I’m currently learning ReactNative and Flask
-- ⚡ Fun fact: I loved coding since I was 9
+- ⚡ Fun fact: I love coding since I was 9
 
 
 <br/> :computer: &nbsp; My tools: ReactNative, JS, Python, Firebase & CSS
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ViníciusPurgato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/)](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/) 
  [![Gmail Badge](https://img.shields.io/badge/-vinicius.purgato-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.purgato@mapleiscool.g12.br)](mailto:vinicius.purgato@mapleiscool.g12.br)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
+
+
 
 
 <!--
