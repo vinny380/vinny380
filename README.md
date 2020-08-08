@@ -11,7 +11,7 @@ Passionate about web/mobile and AI development.
 
 In love with teaching, learning and space/rocketry science.
 
-- 🔭 I’m currently working on Next Level Week application
+- 🔭 I’m currently working on my Next Level Week application with the Rocketseat team
 - 🌱 I’m currently learning React-Native and Flask
 - ⚡ Fun fact: I love coding since I was 9
 
