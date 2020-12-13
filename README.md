@@ -7,16 +7,16 @@
 <h4>The Mars Generation Student Space Ambassador (TMGSS)
 🚀</h4>
 
-Passionate about web/mobile and AI development.
+Passionate about Data Science and AI development.
 
 In love with teaching, learning and space/rocketry science.
 
-- 🔭 I’m currently working on my Next Level Week application with the Rocketseat team
-- 🌱 I’m currently learning React-Native and Flask
+- 🔭 I’m currently working on my Data Science skills at Sigmoidal
+- 🌱 I’m currently learning Pandas and Matplotlib
 - ⚡ Fun fact: I love coding since I was 9
 
 
-<br/> :computer: &nbsp; My tools: ReactNative, JS, Python, Firebase & CSS
+<br/> :computer: &nbsp; My tools: Python, Pandas, Matplot, Numpy, Pytorch
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ViníciusPurgato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/)](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/) 
  [![Gmail Badge](https://img.shields.io/badge/-vinicius.purgato-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.purgato@mapleiscool.g12.br)](mailto:vinicius.purgato@mapleiscool.g12.br)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
