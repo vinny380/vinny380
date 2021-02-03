@@ -8,7 +8,7 @@
 <sub>*Data Scientist*</sub>
 
 I am 17 years old and a new Data Scientist building my career through projects and by generating valuable content to the people who follow me in the internet.
-My plans are to become a better Data Scientist and to generate more value to people, I'm also interested in Bioinformatics, Astronomy and Aerospace Engineering, and probably one them might be my area of undergrad. I am still learning what I like or not with Python.
+My plans are to become a better Data Scientist and to generate more value to people, I'm also interested in Bioinformatics, Astronomy and Aerospace Engineering, and probably one them might be my area of undergrad. I am still learning what I like or not with Python.<br>
 **Background in:** Python, G Suite and Data Science.
 
 **Links:**
