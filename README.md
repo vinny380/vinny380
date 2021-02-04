@@ -20,4 +20,5 @@ My plans are to become a better Data Scientist and to generate more value to peo
 Some of my projects:
 
 * **How to Extract PDF Text With Python:** https://cutt.ly/hkd7yiS
+* **Toronto Airbnb Data Analyzis:** https://cutt.ly/HkhEq6c
 ---
