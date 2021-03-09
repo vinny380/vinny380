@@ -21,4 +21,6 @@ Some of my projects:
 
 * **How to Extract PDF Text With Python:** https://cutt.ly/hkd7yiS
 * **Toronto Airbnb Data Analyzis:** https://cutt.ly/HkhEq6c
+* **Data Analysis of Rio de Janeiro's Violence Rate:** https://cutt.ly/FzlD99C
+* **Covid-19 Data Analysis and Visualization:** https://cutt.ly/YzlFbR0
 ---
