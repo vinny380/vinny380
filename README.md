@@ -7,8 +7,7 @@
 # Vinícius Porfirio Purgato
 <sub>*Data Scientist*</sub>
 
-I am 17 years old and a new Data Scientist building my career through projects and valuable content to the people who follow me in the internet.
-My plans are to become a better Data Scientist and to generate more value to people and the DS community, I'm also interested in Bioinformatics, Astronomy and Aerospace Engineering, one of them might probably be my area of undergraduate.<br>
+
 **Background in:** Python, G Suite and Data Science.
 
 **Links:**
