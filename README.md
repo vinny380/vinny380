@@ -50,5 +50,7 @@
 <a href="mailto:vinny.purgato@gmail.com"><img src="https://img.shields.io/badge/-vinny.purgato@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br></p>
+
 ---
 Credit: [KevinPatel04](https://github.com/KevinPatel04)
