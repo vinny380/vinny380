@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Vinícius </h1>
 
-<p align="center" width="150px"> I'm a data scientist studying Computer Science (specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/biomedical-computing.php">Biomedical Computing</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I love to bring value to the data science community by writing articles and tutorials on Medium and LinkedIn. Future plans include starting a YouTube channel.</p>
+<p align="center" width="150px"> I'm a Computer Science student(specialization in <b><a href="https://www.cs.queensu.ca/undergraduate/programs/specializations/biomedical-computing.php">Biomedical Computing</a></b>) at <a href="https://www.queensu.ca/"><b>Queen's University</b></a>.<br> I love to bring value to the data science community by writing articles and tutorials on Medium and LinkedIn. Future plans include starting a YouTube channel.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bvinny380%7D/count.svg" alt="visitor badge"/></p>
