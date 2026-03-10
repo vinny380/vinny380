@@ -29,6 +29,17 @@ My background spans <b>AI engineering, full-stack development, and entrepreneurs
 
 ---
 
+### 🔨 &nbsp;Currently Building
+
+<p align="center">
+  <b>🧠 <a href="https://github.com/vinny380/bossa">Bossa</a> — Persistent filesystem memory for AI agents</b><br><br>
+  Stop building agents that forget. Bossa gives your agent a filesystem: <code>ls</code>, <code>read</code>, <code>write</code>, <code>grep</code>.<br>
+  Postgres-backed, plug-and-play, no infrastructure required.<br><br>
+  <code>pip install bossa-memory</code> · <a href="https://bossa.mintlify.app">bossa.mintlify.app</a>
+</p>
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 #### 🤖 AI & Machine Learning
@@ -73,6 +84,7 @@ My background spans <b>AI engineering, full-stack development, and entrepreneurs
 
 | Project | Stack | Description |
 |--------|-------|-------------|
+| 🧠 **[Bossa](https://github.com/vinny380/bossa)** | Python, PostgreSQL, MCP, REST | Persistent filesystem memory for AI agents — `pip install bossa-memory` |
 | 🏆 **Policy Royale** *(Chengdu80 Winner)* | Python, RAG, Vector DBs, Vue.js | Hackathon-winning AI policy analysis tool |
 | 🎓 **Duolingo + Netflix for AI Papers** | Next.js, Supabase, FastAPI, LangChain | Gamified AI research paper summaries |
 | 📍 **Fieldify** | TypeScript, Next.js, Firebase, React Native | Track field sales performance |
