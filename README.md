@@ -3,7 +3,7 @@
 # Vinícius (Vinny) Porfirio Purgato
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_two.png" >
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Vinny — I build things.</h1>
