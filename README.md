@@ -35,7 +35,7 @@ My background spans <b>AI engineering, full-stack development, and entrepreneurs
   <b>🧠 <a href="https://github.com/vinny380/bossa">Bossa</a> — Persistent filesystem memory for AI agents</b><br><br>
   Stop building agents that forget. Bossa gives your agent a filesystem: <code>ls</code>, <code>read</code>, <code>write</code>, <code>grep</code>.<br>
   Postgres-backed, plug-and-play, no infrastructure required.<br><br>
-  <code>pip install bossa-memory</code> · <a href="https://bossa.mintlify.app">bossa.mintlify.app</a>
+  <code>pip install bossa-memory</code> · <a href="https://docs.bossamemory.com">docs.bossamemory.com</a>
 </p>
 
 ---
