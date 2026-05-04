@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Vinny — I build things.</h1>
 
-🤖 <b>AI Engineer, Senior Associate @ <a href="https://www.pwc.com/ca/en.html">PwC Canada</a></b><br>
+🤖 <b>Senior Fullstack Software Engineer @ <a href="https://www.pwc.com/ca/en.html">Stan</a></b><br>
 🎓 <b>BSc Computer Science</b> (AI & Cognitive Science) — <a href="https://www.queensu.ca/">Queen's University</a><br>
 ✍️ <b>200K+ reads</b> on Medium writing about Data Science & AI
 
